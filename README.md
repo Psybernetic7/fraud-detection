@@ -2,6 +2,8 @@
 
 A machine learning pipeline that flags potentially fraudulent financial transactions, paired with an interactive Streamlit app for real-time predictions.
 
+🔗 **[Live Demo](https://psybernetic7-fraud-detection-fraud-detection-ijwqb5.streamlit.app/)**
+
 ## Overview
 
 Financial fraud is rare but costly, so in this dataset, fraudulent transactions make up just **0.13%** of all records (8,213 out of 6.36M). That imbalance is the core challenge: a model that predicts "not fraud" every time would be 99.87% accurate and completely useless. This project focuses on building a model that actually catches fraud (high recall) rather than chasing raw accuracy.
